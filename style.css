@@ -1,0 +1,37 @@
+.line{
+    width: 150px;
+    height: 5px;
+    background-color: black;
+}
+.gold_line{
+    width: 150px;
+    height: 5px;
+    background-color:#fedc00 ;
+}
+.icon{
+    height: 20px;
+}
+.abort{
+    color:black;
+}
+.research{
+    color:#293fcc;
+}
+.record{
+    color:#f20707;
+}
+.edit{
+   color:#fec107; 
+}
+.published{
+    color:#20c978;
+}
+.icon{
+    width: 45px;
+    height: 45px;
+    padding: 30px;
+}
+a{
+    text-decoration: none;
+    color:  #fedc00;
+}
